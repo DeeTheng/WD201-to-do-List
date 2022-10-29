@@ -1,0 +1,19 @@
+{
+  "name": "wd201-to-do-list",
+  "version": "1.0.0",
+  "description": "To Do List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeeTheng/WD201-to-do-List.git"
+  },
+  "author": "Dipti Theng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeeTheng/WD201-to-do-List/issues"
+  },
+  "homepage": "https://github.com/DeeTheng/WD201-to-do-List#readme"
+}
